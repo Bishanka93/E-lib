@@ -23,5 +23,5 @@ To create a censorship-resistant, accessible, and trustless system for managing 
 - Frontend interface (DApp) for user-friendly interaction.
 - NFT issuance for unique books or limited editions.
 
-## Contact Address
+## Contact Address : 
 - 0x43A8590B1a87370CbAF0c13f313169930000c291
